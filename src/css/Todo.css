@@ -1,0 +1,14 @@
+#todo{
+    
+    width: 600px;
+    padding: 35px 50px;
+    margin: 15px auto 0;
+    background-color: #fff;
+    box-shadow: 10px 10px 10px #c1c0b9;
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+span{
+    padding-right: 10px;
+}
